@@ -1,5 +1,8 @@
-04 Solution\DJB.UI\DJB.Web\bin
-04 Solution\DJB.UI\DJB.Web\obj
+04 Solution/DJB.UI/DJB.Web/bin
+04 Solution/DJB.UI/DJB.Web/obj
+04 Solution/DJB.Service/DJB.Service/bin
+04 Solution/DJB.Service/DJB.Service/obj
+
 
 # Windows image file caches
 Thumbs.db
