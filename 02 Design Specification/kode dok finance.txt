@@ -1,0 +1,11 @@
+﻿BBK	Bukti Bank Keluar	BCA Djoni Gunawan
+BCB	Bukti Bank Masuk	(rekening pribadi)
+BCK	Bukti Bank Keluar	BCA Djoni Jaya Busana
+BCM	Bukti Bank Masuk	
+BK	Bukti Bank Keluar	BCA khusus untuk gaji
+BM	Bukti Bank Masuk	(rekening payroll)
+JM	Jurnal Memorial 	u/ proses produksi	
+JP	Jurnal Memorial 	u/ biaya	
+KK	Jurnal Kas Kecil Office	
+KP	Jurnal Kas Kecil Pabrik	
+SJ	Jurnal Penjualan	
